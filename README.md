@@ -42,7 +42,6 @@
 
 <br/><br/>
 
-[![David's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DavidMenendezBlanco&show_icons=true)](https://github.com/shivam0110)
 
 <br/>
 
