@@ -37,7 +37,7 @@
 <h3>🛠 To Learn</h3>
 
 - 🔧 &nbsp; AWS | Docker🐳 | Laravel | MongoDB
-- :globe_with_meridians: English
+-  🌐 &nbsp; English
 <hr>
 
 <br/><br/>
