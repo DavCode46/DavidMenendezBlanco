@@ -2,7 +2,7 @@
 
 ##  Hi there 👋, I'm David 
 
-[![](https://img.shields.io/badge/LinkedIn-David Menendez-blue)](https://www.linkedin.com/in/david-menendez-blanco-056a18252/)
+[![](https://img.shields.io/badge/LinkedIn-DavidMenendez-blue)](https://www.linkedin.com/in/david-menendez-blanco-056a18252/)
 [![](https://img.shields.io/badge/Gmail-davidblanco1993%40gmail.com-red)](mailto:davidblanco1993@gmail.com)
 
 
@@ -27,8 +27,6 @@ const david = {
 ```
 
 ---
-⭐️ From [@david](https://github.com/DavidMenendezBlanco)
-
 <br/>
 
 <br/>
@@ -38,4 +36,6 @@ const david = {
 ![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidMenendezBlanco&show_icons=true)
 
 <hr>
+
+⭐️ From [@david](https://github.com/DavidMenendezBlanco)
 
