@@ -14,7 +14,7 @@ const david = {
     askMeAbout: ["web dev", "tech"],
     technologies:{
         backEnd: ["PHP"],
-        fronEnd: ["HTML", "CSS", "JavaScript", "ReactJS", "Bootstrap"],
+        frontEnd: ["HTML", "CSS", "JavaScript", "ReactJS", "Bootstrap"],
         database: ["MySQL"],
         devOps: ["AWS"],
         versionControl: ["Git"]
