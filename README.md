@@ -8,7 +8,7 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 
-- 🎓 &nbsp; Studying Web Application Development.
+- 🎓 &nbsp; Studying Web Development.
 
 - 🌱 &nbsp; Learning about clean code, system architecture and cloud technologies.
 
