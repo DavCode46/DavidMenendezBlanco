@@ -69,7 +69,7 @@
 <p align="center">
 
 
-<a href="https://www.linkedin.com/in/david-menendez-blanco-056a18252/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-David%20Menendez-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/david-menendez-blanco-056a18252/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-David%20Menendez%20Blanco-blue?style=flat-square&logo=linkedin"></a>
 
 <a href="mailto:davidblanco1993@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-davidblanco1993@gmail.com-blue?style=flat-square&logo=gmail"></a>
 
