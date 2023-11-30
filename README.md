@@ -1,47 +1,33 @@
-### Hi there 👋<h2> I'm David</h2>
-
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-<h3> 👨🏻•💻 About Me </h3>
+##  Hi there 👋, I'm David 
+
+[![](https://img.shields.io/badge/LinkedIn-David Menendez-blue)](https://www.linkedin.com/in/david-menendez-blanco-056a18252/)
+[![](https://img.shields.io/badge/Gmail-davidblanco1993%40gmail.com-red)](mailto:davidblanco1993@gmail.com)
 
 
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+```javascript
+const david = {
+    pronouns: "He" | "Him",
+    askMeAbout: ["web dev", "tech"],
+    technologies:{
+        backEnd: ["PHP"],
+        fronEnd: ["HTML", "CSS", "JavaScript", "ReactJS", "Bootstrap"],
+        database: ["MySQL"],
+        devOps: ["AWS"],
+        versionControl: ["Git"]
+    },
+    toLearn = {
+        technologies: ["Laravel", "nodeJS", "express", "MongoDB", "Docker"],
+        languages: ["English"]
+    } 
+}
+```
 
-- 🎓 &nbsp; Studying Web Development.
-
-- 🌱 &nbsp; Learning about clean code, system architecture and cloud technologies.
-
-- ✍️ &nbsp; Pursuing Web Development as hobbies/side hustles.
-
-
-
-<h3>🛠 Tech Stack</h3>
-
-
-
-- 💻 &nbsp; PHP | Java
-
-- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | ReactJS
-
-<!--
-
-- 🛢 &nbsp; MySQL 
-
-- 🔧 &nbsp; Git 
-
--->
-
-
-
-<h3>🛠 To Learn</h3>
-
-- 🔧 &nbsp; AWS | Docker🐳 | Laravel | MongoDB
--  🌐 &nbsp; English
-<hr>
-
-<br/><br/>
-
+---
+⭐️ From [@david](https://github.com/DavidMenendezBlanco)
 
 <br/>
 
@@ -51,30 +37,5 @@
 
 ![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidMenendezBlanco&show_icons=true)
 
-
-<br><br>
-
-
-
 <hr>
-
-
-
-<h3> 🤝🏻 Contacta conmigo </h3>
-
-<br>
-
-
-
-<p align="center">
-
-
-<a href="https://www.linkedin.com/in/david-menendez-blanco-056a18252/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-David%20Menendez%20Blanco-blue?style=flat-square&logo=linkedin"></a>
-
-<a href="mailto:davidblanco1993@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-davidblanco1993@gmail.com-blue?style=flat-square&logo=gmail"></a>
-
-</p>
-
-<hr>
-
 
